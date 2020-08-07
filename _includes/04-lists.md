@@ -1,3 +1,2 @@
-1.freedom
-  *freedom
-  
+1. freedom
+  * freedom
